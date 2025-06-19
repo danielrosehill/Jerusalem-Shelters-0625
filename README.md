@@ -2,7 +2,7 @@
 
 ![alt text](images/cover.png)
 
-[![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge&logo=arcgis)](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a)
+[![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge&logo=arcgis)](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a) [![Download GeoJSON](https://img.shields.io/badge/Download-GeoJSON-green?style=for-the-badge&logo=json)](https://raw.githubusercontent.com/danielrosehill/Jerusalem-Shelters-0625/refs/heads/main/public-shelters-jerusalem_190625.geojson)
 
 ## ⚠️ Disclaimer ⚠️
 While efforts have been made to ensure accuracy, this dataset should not be considered an official source. In emergency situations, always follow instructions from local authorities.
@@ -42,8 +42,6 @@ The following modifications were made to the original dataset from the Jerusalem
 - Unpopulated fields removed  
 - Geolocations and addresses preserved  
 - A "full address" field was added which appends ", Jerusalem, Israel" to the local location names to facilitate accessing the locations in geonavigation apps
-
-
 
 ## Mobile Installation Instructions
 
