@@ -1,5 +1,7 @@
 # Jerusalem Public Shelters Dataset
 
+![alt text](images/cover.png)
+
 [![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge&logo=arcgis)](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a)
 
 ## Overview
