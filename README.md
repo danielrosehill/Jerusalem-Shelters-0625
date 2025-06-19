@@ -54,6 +54,10 @@ For the best mobile experience, we recommend using Hermit to create a lite app:
 3. Make sure to grant location permissions to the app for optimal functionality
 4. Add the lite app to your home screen for quick access during emergencies
 
+## ArcGIS URL
+
+`https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a`
+
 ## License
 This data is shared under an open license to promote public safety and welfare.
 
