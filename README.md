@@ -1,8 +1,11 @@
-# Jerusalem Public Shelters Dataset
+# Jerusalem Public Shelters Dataset (June 2025 - Non-Official)
 
 ![alt text](images/cover.png)
 
 [![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge&logo=arcgis)](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a)
+
+## ⚠️ Disclaimer ⚠️
+While efforts have been made to ensure accuracy, this dataset should not be considered an official source. In emergency situations, always follow instructions from local authorities.
 
 ## Overview
 This repository contains a list of public shelters in Jerusalem, Israel. The data was collected on June 19, 2025, from the Jerusalem Municipality's public records. This information is being shared to help those in need locate safe shelter during emergencies and to contribute to various mapping and emergency response tools.
@@ -40,8 +43,7 @@ The following modifications were made to the original dataset from the Jerusalem
 - Geolocations and addresses preserved  
 - A "full address" field was added which appends ", Jerusalem, Israel" to the local location names to facilitate accessing the locations in geonavigation apps
 
-## Disclaimer
-While efforts have been made to ensure accuracy, this dataset should not be considered an official source. In emergency situations, always follow instructions from local authorities.
+
 
 ## Mobile Installation Instructions
 
