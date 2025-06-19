@@ -1,29 +1,34 @@
 # Jerusalem Public Shelters Dataset
 
 ## Overview
-This repository contains a comprehensive list of public shelters in Jerusalem, Israel. The data was collected on June 19, 2025, from the Jerusalem Municipality's public records. This information is being shared to help those in need locate safe shelter during emergencies and to contribute to various mapping and emergency response tools.
+This repository contains a list of public shelters in Jerusalem, Israel. The data was collected on June 19, 2025, from the Jerusalem Municipality's public records. This information is being shared to help those in need locate safe shelter during emergencies and to contribute to various mapping and emergency response tools.
 
-## Data Format
-The data is provided in GeoJSON format, which includes geographic coordinates and additional attributes for each shelter location. This format makes it easy to integrate with mapping applications and emergency services platforms.
+## Available Formats
 
-## Purpose
-- To provide easy access to critical safety information for Jerusalem residents and visitors
-- To enable developers to incorporate shelter locations into emergency response applications
-- To support humanitarian efforts by making safety infrastructure data publicly accessible
-- To assist emergency planners in identifying shelter coverage and potential gaps
+The data is available in multiple formats for different use cases:
 
-## Usage
-This dataset can be used for:
-- Creating interactive maps of shelter locations
-- Developing emergency alert applications
-- Conducting spatial analysis of shelter distribution
-- Supporting disaster preparedness planning
+| Format | File | Description |
+|--------|------|-------------|
+| 📍 GeoJSON | [public-shelters-jerusalem_190625.geojson](/public-shelters-jerusalem_190625.geojson) | Geographic data format compatible with most mapping applications |
+| 📊 CSV | [converted_formats/jerusalem_shelters_190625.csv](/converted_formats/jerusalem_shelters_190625.csv) | Simple tabular format for spreadsheet applications |
+| 🗺️ Shapefile | [converted_formats/jerusalem_shelters_190625.shp](/converted_formats/jerusalem_shelters_190625.shp) | Standard GIS format (includes .dbf, .shx, .prj files) |
+| 🌐 GML | [converted_formats/jerusalem_shelters_190625.gml](/converted_formats/jerusalem_shelters_190625.gml) | Geography Markup Language format |
+| 📦 GeoPackage | [converted_formats/jerusalem_shelters_190625.gpkg](/converted_formats/jerusalem_shelters_190625.gpkg) | OGC GeoPackage format |
+
+## Data Modifications
+
+The following modifications were made to the original dataset from the Jerusalem Municipality:
+
+- Original categorisation replaced with a simple 1, 2, 3 system (shelters, car parks, schools with sheltering places)
+- Unpopulated fields removed  
+- Geolocations and addresses preserved  
+- A "full address" field was added which appends ", Jerusalem, Israel" to the local location names to facilitate accessing the locations in geonavigation apps
 
 ## Disclaimer
 While efforts have been made to ensure accuracy, this dataset should not be considered an official source. In emergency situations, always follow instructions from local authorities.
 
-## Contributing
-Contributions to keep this data updated and accurate are welcome. Please submit pull requests with any corrections or additional information.
-
 ## License
 This data is shared under an open license to promote public safety and welfare.
+
+## Last Updated
+June 19, 2025
