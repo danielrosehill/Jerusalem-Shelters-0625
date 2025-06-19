@@ -2,7 +2,7 @@
 
 ![alt text](images/cover.png)
 
-[![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge&logo=arcgis)](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a) [![Download GeoJSON](https://img.shields.io/badge/Download-GeoJSON-green?style=for-the-badge&logo=json)](https://raw.githubusercontent.com/danielrosehill/Jerusalem-Shelters-0625/refs/heads/main/public-shelters-jerusalem_190625.geojson)
+[![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge&logo=arcgis)](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a) [![Download GeoJSON](https://img.shields.io/badge/Download-GeoJSON-green?style=for-the-badge&logo=json)](https://raw.githubusercontent.com/danielrosehill/Jerusalem-Shelters-0625/refs/heads/main/public-shelters-jerusalem_190625.geojson) [![Download KML](https://img.shields.io/badge/Download-KML-yellow?style=for-the-badge&logo=google-earth)](https://raw.githubusercontent.com/danielrosehill/Jerusalem-Shelters-0625/refs/heads/main/kml/public-shelters-jerusalem.kml)
 
 ## ⚠️ Disclaimer ⚠️
 While efforts have been made to ensure accuracy, this dataset should not be considered an official source. In emergency situations, always follow instructions from local authorities.
@@ -17,6 +17,7 @@ The data is available in multiple formats for different use cases:
 | Format | File | Description |
 |--------|------|-------------|
 | 📍 GeoJSON | [public-shelters-jerusalem_190625.geojson](/public-shelters-jerusalem_190625.geojson) | Geographic data format compatible with most mapping applications |
+| 🌍 KML | [kml/public-shelters-jerusalem.kml](/kml/public-shelters-jerusalem.kml) | Google Earth/Maps compatible format |
 | 📊 CSV | [converted_formats/jerusalem_shelters_190625.csv](/converted_formats/jerusalem_shelters_190625.csv) | Simple tabular format for spreadsheet applications |
 | 🗺️ Shapefile | [converted_formats/jerusalem_shelters_190625.shp](/converted_formats/jerusalem_shelters_190625.shp) | Standard GIS format (includes .dbf, .shx, .prj files) |
 | 🌐 GML | [converted_formats/jerusalem_shelters_190625.gml](/converted_formats/jerusalem_shelters_190625.gml) | Geography Markup Language format |
