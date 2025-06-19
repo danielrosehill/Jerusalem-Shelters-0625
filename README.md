@@ -14,7 +14,7 @@ The data is available in multiple formats for different use cases:
 | 🗺️ Shapefile | [converted_formats/jerusalem_shelters_190625.shp](/converted_formats/jerusalem_shelters_190625.shp) | Standard GIS format (includes .dbf, .shx, .prj files) |
 | 🌐 GML | [converted_formats/jerusalem_shelters_190625.gml](/converted_formats/jerusalem_shelters_190625.gml) | Geography Markup Language format |
 | 📦 GeoPackage | [converted_formats/jerusalem_shelters_190625.gpkg](/converted_formats/jerusalem_shelters_190625.gpkg) | OGC GeoPackage format |
-| 🗺️ Google Maps | [Interactive Google Map](https://www.google.com/maps/d/edit?mid=1BW0i9j2aRLDYirNUZkp83HZVdF3NzPA&usp=sharing) | Interactive map for easy online viewing |
+| 🗺️ ArcGIS | [Interactive ArcGIS Map](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a) | Interactive map for easy online viewing |
 
 ## Data Modifications
 
@@ -27,6 +27,15 @@ The following modifications were made to the original dataset from the Jerusalem
 
 ## Disclaimer
 While efforts have been made to ensure accuracy, this dataset should not be considered an official source. In emergency situations, always follow instructions from local authorities.
+
+## Mobile Installation Instructions
+
+For the best mobile experience, we recommend using Hermit to create a lite app:
+
+1. Download [Hermit - Lite Apps Browser](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab&hl=en) from the Google Play Store
+2. Open Hermit and create a new lite app using the ArcGIS map URL
+3. Make sure to grant location permissions to the app for optimal functionality
+4. Add the lite app to your home screen for quick access during emergencies
 
 ## License
 This data is shared under an open license to promote public safety and welfare.
