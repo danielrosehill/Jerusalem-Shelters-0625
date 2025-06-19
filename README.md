@@ -14,6 +14,7 @@ The data is available in multiple formats for different use cases:
 | 🗺️ Shapefile | [converted_formats/jerusalem_shelters_190625.shp](/converted_formats/jerusalem_shelters_190625.shp) | Standard GIS format (includes .dbf, .shx, .prj files) |
 | 🌐 GML | [converted_formats/jerusalem_shelters_190625.gml](/converted_formats/jerusalem_shelters_190625.gml) | Geography Markup Language format |
 | 📦 GeoPackage | [converted_formats/jerusalem_shelters_190625.gpkg](/converted_formats/jerusalem_shelters_190625.gpkg) | OGC GeoPackage format |
+| 🗺️ Google Maps | [Interactive Google Map](https://www.google.com/maps/d/edit?mid=1BW0i9j2aRLDYirNUZkp83HZVdF3NzPA&usp=sharing) | Interactive map for easy online viewing |
 
 ## Data Modifications
 
