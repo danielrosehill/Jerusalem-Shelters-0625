@@ -1,5 +1,7 @@
 # Jerusalem Public Shelters Dataset
 
+[![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge&logo=arcgis)](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a)
+
 ## Overview
 This repository contains a list of public shelters in Jerusalem, Israel. The data was collected on June 19, 2025, from the Jerusalem Municipality's public records. This information is being shared to help those in need locate safe shelter during emergencies and to contribute to various mapping and emergency response tools.
 
@@ -15,6 +17,17 @@ The data is available in multiple formats for different use cases:
 | 🌐 GML | [converted_formats/jerusalem_shelters_190625.gml](/converted_formats/jerusalem_shelters_190625.gml) | Geography Markup Language format |
 | 📦 GeoPackage | [converted_formats/jerusalem_shelters_190625.gpkg](/converted_formats/jerusalem_shelters_190625.gpkg) | OGC GeoPackage format |
 | 🗺️ ArcGIS | [Interactive ArcGIS Map](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=6771ca80d88d4f58bde24226cb61f52a) | Interactive map for easy online viewing |
+
+## Map Screenshots
+
+### Map View
+![Map View](/screenshots/1.png)
+
+### Detail View
+![Detail View](/screenshots/2.png)
+
+### Legend
+![Legend](/screenshots/legend.png)
 
 ## Data Modifications
 
