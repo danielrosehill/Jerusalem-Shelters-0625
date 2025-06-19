@@ -46,12 +46,24 @@ The following modifications were made to the original dataset from the Jerusalem
 
 ## Mobile Installation Instructions
 
-For the best mobile experience, we recommend using Hermit to create a lite app:
+### Interactive Map App
+
+For the best mobile experience with the interactive map, we recommend using Hermit to create a lite app:
 
 1. Download [Hermit - Lite Apps Browser](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab&hl=en) from the Google Play Store
 2. Open Hermit and create a new lite app using the ArcGIS map URL
 3. Make sure to grant location permissions to the app for optimal functionality
 4. Add the lite app to your home screen for quick access during emergencies
+
+### Downloading KML/GeoJSON Files on Mobile
+
+To properly download the KML or GeoJSON files on Android:
+
+1. Long-press on the download link
+2. Select "Download link" or "Save link" from the context menu
+3. The file will be saved to your Downloads folder
+4. For KML files: Open with Google Earth or Google Maps
+5. For GeoJSON files: Use a compatible GIS app like QGIS Mobile
 
 ## ArcGIS URL
 
