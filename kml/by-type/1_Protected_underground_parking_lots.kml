@@ -1,0 +1,529 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jerusalem Protected underground parking lots</name>
+    <Style id="shelterStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Beit Avichai (601)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; King George 44&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=King George 44, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.215791827115616,31.777267365823803,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beit Banit (602)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Hauman 14&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Hauman 14, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.209708247427,31.750919531149275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beit Yahav (603)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Yeremiah 80&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Yeremiah 80, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20028136091587,31.79133351411927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clal Building (604)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Jaffa 97 /Agripas 42&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Jaffa 97 /Agripas 42, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21517978975263,31.784212712816448,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Technology Park 4 (605)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; The Technological Park, Hapoel Sports Association 2 Road&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=The Technological Park, Hapoel Sports Association 2 Road, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.18600107453311,31.750026940030864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Technology Park Building 1-2 -Hamigdal Building (606)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Hapoel 2 Association&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Hapoel 2 Association, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.185990347427136,31.750036063320643,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Technology Park Building 5 (607)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; The Technological Park, Hapoel Sports Association 2 Road&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=The Technological Park, Hapoel Sports Association 2 Road, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.186011803368515,31.750063433170816,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Technology Park Buildings 8-9 (608)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; The Technological Park, Hapoel Sports Association 2 Road, Jerusalem&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=The Technological Park, Hapoel Sports Association 2 Road, Jerusalem, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1866391712211,31.749565159736868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Bus Station (609)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Jaffa 224&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Jaffa 224, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20335428235088,31.78955542912993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windows of Jerusalem (610)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Agripas 40&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Agripas 40, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21431678380738,31.78433562250371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orient Parking Lot (611)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Emek Refaim 3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Emek Refaim 3, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.223090674532564,31.766769128676646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oranim Parking Lot (612)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Kanfei Nesharim 66&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Kanfei Nesharim 66, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.18123848975243,31.787355186040934,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beit El-Shanhav Parking Lot (613)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; The Printing House 12&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=The Printing House 12, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.188391874532066,31.78660704819047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Binyanei Hauma Parking Lot (614)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Shazar Blvd. 1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Shazar Blvd. 1, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20231020336738,31.786512987782356,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bezalel Parking Lot (615)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Zmora 1, Jerusalem&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Zmora 1, Jerusalem, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22271962883541,31.782268982537506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Golda (Mobilay) Parking Lot (616)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Golda Meir Blvd. West of Shlomo Halevi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Golda Meir Blvd. West of Shlomo Halevi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.208925218991325,31.80004470123445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dovid Yellin Parking Lot (617)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Beit Midrash Circle 7&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Beit Midrash Circle 7, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19070503220292,31.78218805785295,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dona Parking Lot (618)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; The Printing House 20&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=The Printing House 20, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.18618533469712,31.786671909279008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hateatron Parking Lot (619)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Prof. Yaakov Shaskin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Prof. Yaakov Shaskin, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21644583582216,31.767992007875165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower 1 Parking Lot (620)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Ki&#x27;&#x27;h Corner Jaffa&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Ki&amp;#x27;&amp;#x27;h Corner Jaffa, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21467974569667,31.785042490828918,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yad Sara Parking Lot (621)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Yeremiah 35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Yeremiah 35, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20231673220263,31.790820121010785,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yes Planet Parking Lot (622)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Naomi 4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Naomi 4, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.225698834350005,31.76246559850152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Visitor Parking Lot The State (623)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; State Comptroller 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=State Comptroller 2, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.204495445696566,31.78375589349424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eagles Tower Parking Lot (624)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Printing House 32&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Printing House 32, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.18086268802584,31.78669686771139,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beer Towers Parking Lot (625)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Yeremiah 39&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Yeremiah 39, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20215290336726,31.79087479802377,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Museum of Tolerance Parking Lot (626)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Hillel 33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Hillel 33, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21948340521556,31.78027286168596,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mamilla Parking Lot (627)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Yitzhak Kariv 6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Yitzhak Kariv 6, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2249100757418,31.777341283715252,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Menorah Parking Lot (628)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Menorah 3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Menorah 3, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21281430336758,31.78040776294547,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ministry of Education Parking Lot (629)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Debora Hanevi&#x27;a 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Debora Hanevi&amp;#x27;a 2, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22397310008403,31.78449857399372,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Safra Parking Lot (630)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Jaffa 26 /Shbetei Yisrael 7&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Jaffa 26 /Shbetei Yisrael 7, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22492106277103,31.77993978283809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rav Shefa Parking Lot (631)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Shamgar 16&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Shamgar 16, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20843918987339,31.794966726893914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rajuan Parking Lot (632)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Alias ​​6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Alias ​​6, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2157816492801,31.781813737867314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shamai 21 Parking Lot (633)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Shmai 21&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Shmai 21, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21891563581359,31.781422763496103,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yerushalim Zahav (634)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Rabbi Akiva 14&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Rabbi Akiva 14, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21787461858919,31.779397304590315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lev Talpiot (635)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Ha&#x27;Uman 17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Ha&amp;#x27;Uman 17, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20910844928173,31.75062443885658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meuhedet (636)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Haturim 4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Haturim 4, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21015058846051,31.78752044447707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Tower (637)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Ben Yehuda 34&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Ben Yehuda 34, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21568540009222,31.781451035075712,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jerusalem Towers (638)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Rabbi Akiva 6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Rabbi Akiva 6, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21797370509829,31.779959182790243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Etz Hazait Hotel (639)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; St. George 26&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=St. George 26, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2287387627705,31.790028541779872,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mesilat David (640)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Mesilat Yesharim 17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Mesilat Yesharim 17, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21523358609901,31.78267031342805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moriah Area (641)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Hatunufa 17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Hatunufa 17, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21461889160899,31.75081853138816,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shukanyon (642)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Agrippas 88&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Agrippas 88, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21013558975252,31.785399089197544,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shaarei Ha'ir (643)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Protected underground parking lots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Jaffa 216&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Jaffa 216, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.205325467035486,31.78974972250061,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

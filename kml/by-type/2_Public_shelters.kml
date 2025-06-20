@@ -1,0 +1,2233 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jerusalem Public shelters</name>
+    <Style id="shelterStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>678 (644)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Nachshon St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Nachshon St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22621432,31.76537994,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>681 (645)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Efrayim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Efrayim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2189683,31.75959347,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>682 (646)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 14 Reuven St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=14 Reuven St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2188286,31.75951784,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>683 (647)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 54 Hebron Rd.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=54 Hebron Rd., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2235262,31.76002206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>684 (648)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 Esther HaMalka St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 Esther HaMalka St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22264,31.75875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>685 (649)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 Mordechai HaYehudi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 Mordechai HaYehudi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22199465,31.75722449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>836 (650)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 27 Menashe St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=27 Menashe St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21989257,31.75968621,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>980 (651)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 22 ​Rivka St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=22 ​Rivka St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21700545,31.7551778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>984 (652)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 11 Ya&#x27;el St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=11 Ya&amp;#x27;el St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2212796,31.76190746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>995 (653)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Levi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Levi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.220897,31.75755932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>742 (654)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Sha&#x27;arei Tora St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Sha&amp;#x27;arei Tora St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.18298046,31.76591212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>743 (655)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 39 Bayit VaGan St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=39 Bayit VaGan St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.18451955,31.76926455,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>744 (656)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 4 HaBanai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=4 HaBanai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19041839,31.77512976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>745 (657)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 30 HaBanai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=30 HaBanai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1922193,31.7775352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>613 (658)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 14 Shimshon Polanski St. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=14 Shimshon Polanski St. , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.222439,31.79243224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>625 (659)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 22 Sha&#x27;arei Shamayim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=22 Sha&amp;#x27;arei Shamayim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22382562,31.78864072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>626 (660)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 22 Baruch Rapaport St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=22 Baruch Rapaport St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22314848,31.78938581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>628 (661)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Amelim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Amelim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22414869,31.78807146,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>841 (662)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 25 Yoel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=25 Yoel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22139609,31.79120318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>908 (663)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 22 Shimshon Polanski St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=22 Shimshon Polanski St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2232357,31.79208743,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>608 (664)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 44 Adoniyahu HaCohen St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=44 Adoniyahu HaCohen St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21720827,31.79392271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>609 (665)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 23 Yisa Bracha St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=23 Yisa Bracha St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2176755,31.79229011,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>610 (666)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 Aharon Fishel St.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 Aharon Fishel St.  , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21883589,31.79259419,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>611 (667)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 11 Ben Tsiyon Gol St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=11 Ben Tsiyon Gol St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22088474,31.79316116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>612 (668)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 16 Yoel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=16 Yoel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22089024,31.78987955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>620 (669)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 27 Yehezkhel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=27 Yehezkhel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21966951,31.79120979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>910 (670)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Ovadya St 22&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=Ovadya St 22, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21486308,31.79171933,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>639 (671)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 2 Michel Pines St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=2 Michel Pines St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21512951956394,31.785705163311736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>652 (672)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 26 HaNevi&#x27;im St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=26 HaNevi&amp;#x27;im St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22572662,31.78412421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>932 (673)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 38 HaGilboa St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=38 HaGilboa St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21285728,31.78310575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>973 (674)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 HaRav Aviyada St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 HaRav Aviyada St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21665559,31.77791035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>974 (675)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9 Shmuel Hanagid St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=9 Shmuel Hanagid St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2147312,31.779882942244104,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>985 (676)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 13 Strauss St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=13 Strauss St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21869972,31.78547133,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>903 (677)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 82 Homat HaTzalafim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=82 Homat HaTzalafim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16359315,31.76842599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>672 (678)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 Ruth St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 Ruth St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21736907,31.76506375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>670 (679)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9 Bostanai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=9 Bostanai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21287922,31.76565605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>673 (680)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Malal St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Malal St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21629892,31.78075326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>674 (681)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Bachar St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Bachar St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.218209,31.76617023,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>676 (682)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 Emile Zola St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 Emile Zola St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22099657,31.76455263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>677 (683)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 Wyndham Deedes St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 Wyndham Deedes St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22126489,31.76403005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>692 (684)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 60 Emek Refaim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=60 Emek Refaim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21660961,31.76146192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>693 (685)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9 Yotam St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=9 Yotam St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21468592,31.76274013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>697 (686)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 27 Yehoshua Bin Nun St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=27 Yehoshua Bin Nun St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21523335,31.76069919,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>804 (687)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 HaMelits St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 HaMelits St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21965502,31.76488511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>998 (688)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 Aba Berdichev St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 Aba Berdichev St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.24163187,31.80571068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>694 (689)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1 Amatsiya St.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=1 Amatsiya St.  , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21522257,31.76185848,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>695 (690)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 2 Amatsiya St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=2 Amatsiya St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21556613,31.76231446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>614 (691)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 16 Shlomo Musayof St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=16 Shlomo Musayof St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22168235,31.79235363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>621 (692)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Hoshe&#x27;a St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Hoshe&amp;#x27;a St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2196259,31.78971852,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>623 (693)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 14 Zechariah HaRofeh St. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=14 Zechariah HaRofeh St. , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2217995,31.78825462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>635 (694)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 Avodat Yisrael St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 Avodat Yisrael St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22103303,31.78768692,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>637 (695)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 18 Nahman MiBreslev St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=18 Nahman MiBreslev St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21997837,31.7877374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>830 (696)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 25 Tsfanya St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=25 Tsfanya St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21721693,31.7915136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>904 (697)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 HaZayit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 HaZayit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2112935,31.79038842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>715 (698)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 52 David Shimoni St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=52 David Shimoni St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20108822,31.761363718452447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>949 (699)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 33 HaTayasim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=33 HaTayasim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20729202,31.765473482943282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>808 (700)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 27 Yisrael Najara St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=27 Yisrael Najara St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19194561,31.79066778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>700 (701)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 David Shimoni St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 David Shimoni St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20497305,31.76535868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>726 (702)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 123 HaNurit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=123 HaNurit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17212095,31.75304368,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>727 (703)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 104 HaNurit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=104 HaNurit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17056825,31.75457225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>728 (704)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 102 HaNurit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=102 HaNurit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17017787,31.754851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>829 (705)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9 HaRakefet St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=9 HaRakefet St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.166039,31.75350048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>840 (706)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 70 Costa Rica St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=70 Costa Rica St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16703205,31.75303908,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>901 (707)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 13 Iceland St &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=13 Iceland St , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16653153,31.75927128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>902 (708)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 29 HaNurit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=29 HaNurit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16903666,31.75487408,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>663 (709)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 HaAmora&#x27;ïm St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 HaAmora&amp;#x27;ïm St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21027869,31.75751449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>704 (710)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 Yohanan Ben Zakai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 Yohanan Ben Zakai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21313979,31.75913637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>704 A (711)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 Yohanan ben Zakai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 Yohanan ben Zakai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21315052,31.75909988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>705 (712)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Ma&#x27;agalei Yavne St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Ma&amp;#x27;agalei Yavne St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21239611,31.75835329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>707 (713)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 22 Rashbag St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=22 Rashbag St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20973119,31.75636218,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>709 (714)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 Ben Tabai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 Ben Tabai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20480865,31.75758379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>710 (715)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 70 Yohanan ben Zakai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=70 Yohanan ben Zakai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2046794,31.75639741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>714 (716)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Kana&#x27;ei HaGalil St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Kana&amp;#x27;ei HaGalil St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20017082,31.75578266,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>718 (717)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 Rabbi Tzadok St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 Rabbi Tzadok St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19382965,31.75450818,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>755 (718)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Dov Hoz St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Dov Hoz St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19666642,31.75640292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>756 (719)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1 San Martin St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=1 San Martin St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1946299,31.75628558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>757 (720)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 HaShomer St.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 HaShomer St.  , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19787365,31.75571857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>805 (721)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 21 Yordei HaSira St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=21 Yordei HaSira St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21082471,31.76235525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>817 (722)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Yehoshua Ben Gamla St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Yehoshua Ben Gamla St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21228161870976,31.760739429922552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>824 (723)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 31 Rashbag St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=31 Rashbag St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2086146,31.7554334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>825 (724)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 24 Elazar Ben Yair St.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=24 Elazar Ben Yair St.  , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20166873,31.75360963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>828 (725)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 HaRav Hasda St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 HaRav Hasda St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21328746,31.75971235,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>831 (726)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Dov Hoz St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Dov Hoz St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1954492,31.7562636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>842 (727)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Bar Yochai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Bar Yochai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19538627,31.75311816,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>906 (728)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 2 Bar Yochai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=2 Bar Yochai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19884543,31.75430501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>965 (729)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Yitzhak Sadeh St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Yitzhak Sadeh St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19636583,31.75373649,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>967 (730)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Antignos St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Antignos St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.209264,31.75888667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>969 - Eligible (731)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 16 Yossi Ben Yo&#x27;ezer St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=16 Yossi Ben Yo&amp;#x27;ezer St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20875076,31.75687008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>976 (732)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 41 Avraham Elmaliach St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=41 Avraham Elmaliach St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19197755,31.75536971,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>981 (733)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 27 Avraham Elmaliach St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=27 Avraham Elmaliach St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.192008203946784,31.754341565568573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>987 (734)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 38 Yohanan Ben Zakai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=38 Yohanan Ben Zakai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20898060394658,31.759226774112687,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>721 (735)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 29 Uruguay St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=29 Uruguay St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17732316161951,31.755479951365427,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>722 (736)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 67 Avraham Stern St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=67 Avraham Stern St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17666523278302,31.756374674113907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>723 (737)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 51 Avraham Stern St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=51 Avraham Stern St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17664425,31.75424528,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>724 (738)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9 Volta Ilit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=9 Volta Ilit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17758566,31.75837336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>736 (739)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Chile St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Chile St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1704658,31.76074271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>737 (740)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 32 Janus Korczak St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=32 Janus Korczak St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1720983,31.76016281,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>738 (741)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 78 Anielewicz St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=78 Anielewicz St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17317009,31.76217764,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>739 (742)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Schmorak St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Schmorak St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17604607,31.76613405,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>740 (743)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Yisrael Zangvil St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Yisrael Zangvil St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17828942,31.76717025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>741 (744)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 Yisrael Zangvill St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 Yisrael Zangvill St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17830100394625,31.767223582079748,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>814 (745)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Volta Ilit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Volta Ilit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17712367325539,31.759254741248913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>814 A (746)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Volta Ilit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Volta Ilit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17712367325539,31.759254741248913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>815 (747)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 2 Aharon Rabinovich St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=2 Aharon Rabinovich St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1752983,31.76531568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>815 A (748)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 2 Aharon Rabinovich St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=2 Aharon Rabinovich St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1752983,31.76531568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>947 (749)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Sireni St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Sireni St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1745476,31.76095623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>963 (750)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 11 Yisrael Zangvill St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=11 Yisrael Zangvill St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17732240394631,31.765835839299733,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>964 (751)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Meir Grunwald St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Meir Grunwald St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.176021603946715,31.757286074113505,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>983 (752)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 Gordon St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 Gordon St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.177038619291835,31.766576860739093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>992 (753)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 19 Etinger St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=19 Etinger St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17748120394628,31.76325667411079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>993 (754)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Kleinman St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Kleinman St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1746754,31.76409128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>729 (755)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Dahomey St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Dahomey St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1658768,31.75615742,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>730 (756)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Dahomey St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Dahomey St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16679340394644,31.75827574153875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>731 (757)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 16 Colombia St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=16 Colombia St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17093104,31.75258226,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>732 (758)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Colombia St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Colombia St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17037417,31.75469212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>734 (759)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Iceland St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Iceland St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16537727,31.75967074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>734 A (760)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Iceland St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Iceland St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16537727,31.75967074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>803 (761)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Henrietta Szold St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Henrietta Szold St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.166911617437314,31.75954196351599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>827 (762)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 4 Mexico St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=4 Mexico St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16878,31.75898,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>748 (763)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 2 Ha&#x27;ilui St.    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=2 Ha&amp;#x27;ilui St.    , Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19554033,31.78803628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>977 (764)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 23 Gat St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=23 Gat St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1973343,31.78641411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>978 (765)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 13 HaRav Tzvi Yehuda St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=13 HaRav Tzvi Yehuda St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.195550088599845,31.787537495752257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>667 (766)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 22 HaPalmach St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=22 HaPalmach St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.211043932782616,31.767487095675378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>668 (767)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 HaRav Brodi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 HaRav Brodi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21030692,31.76809927410867,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>971 (768)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 16 HaPalmach St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=16 HaPalmach St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.212020503946185,31.76784826023723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>726 B (769)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 125 HaNurit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=125 HaNurit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.171552,31.75252344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>726 A (770)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 124 HaNurit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=124 HaNurit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17106527,31.75270968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>646 (771)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 4 Eliyahu Mani St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=4 Eliyahu Mani St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21048843,31.78618111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>648 (772)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 Nahar Prat St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 Nahar Prat St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20939807,31.78336583,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>821 (773)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 24 Einayim LaMishpat St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=24 Einayim LaMishpat St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2136024,31.78299762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>935 (774)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 28 Be&#x27;er Sheva St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=28 Be&amp;#x27;er Sheva St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21055875,31.7827654,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>961 (775)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Even Sapir St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Even Sapir St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21112847,31.78076286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>813 (776)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Kdoshei Struma St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Kdoshei Struma St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1832669,31.7556061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>632 (777)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 87 Me&#x27;a She&#x27;arim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=87 Me&amp;#x27;a She&amp;#x27;arim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22459891,31.78581751,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>826 (778)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 Otsar HaSfarim St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 Otsar HaSfarim St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2253953,31.78649294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>641 (779)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 25 Kfar Nahum St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=25 Kfar Nahum St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21424313,31.78927688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>643 (780)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 73 Malkei Israel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=73 Malkei Israel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21083998,31.79060663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>812 (781)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 109 Rashi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=109 Rashi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.207423347544406,31.788901763360464,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>839 (782)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 14 Tashbatz St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=14 Tashbatz St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16634432,31.78743779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>909 (783)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Yehuda HaMaccabi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Yehuda HaMaccabi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.209420974531916,31.788772024648548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>653 (784)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Mishmarot St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Mishmarot St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22658907,31.78238694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>751 (785)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 HaAyin Het St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 HaAyin Het St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22640406779709,31.783101414895757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>752 (786)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 21 HaAyin Het St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=21 HaAyin Het St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22675128802577,31.781545038473322,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>753 (787)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 16 Kheil HaHandasa St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=16 Kheil HaHandasa St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2270983,31.78579592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>657 (788)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 21 Tsfat St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=21 Tsfat St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21119735,31.77968218,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>939 (789)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Neve Sha&#x27;anan St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Neve Sha&amp;#x27;anan St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20100356,31.77218105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>669 (790)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 42 HaPalmach St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=42 HaPalmach St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20885859,31.76639437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>671 (791)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 22 Kaf Tet BeNovember St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=22 Kaf Tet BeNovember St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21380394627346,31.766167065640484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>696 (792)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Reish Lakish St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Reish Lakish St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21325687,31.76129246,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>702 (793)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 12 Halafta St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=12 Halafta St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20753835,31.75967715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>703 (794)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 53 Yohanan Ben Zakai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=53 Yohanan Ben Zakai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20489024,31.7563287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>937 (795)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 38 Hizkiyahu HaMelech St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=38 Hizkiyahu HaMelech St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20969289,31.76174784,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>658 (796)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 13 Ibn Ezra St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=13 Ibn Ezra St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21411710394585,31.775601398716745,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>659 (797)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 Ibn Gabirol St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 Ibn Gabirol St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2153943174367,31.775111057369614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>809 (798)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9 Rashba St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=9 Rashba St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2107287751096,31.77325643710173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>810 (799)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9 Ovadia MeBartenora St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=9 Ovadia MeBartenora St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21668807,31.77326342,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>816 (800)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 50 Azza St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=50 Azza St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.212385994916545,31.771603263030787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>835 (801)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 18 Arlozorov St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=18 Arlozorov St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21589868860039,31.772262658494302,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>972 (802)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 26 AlHarizi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=26 AlHarizi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2142244,31.776280894804234,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>606 (803)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1 Pnina St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=1 Pnina St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21447234627226,31.795624849266986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>750 (804)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 Zichron Ya&#x27;akov St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 Zichron Ya&amp;#x27;akov St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20083957,31.79611804,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>933 (805)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 38 HaMem Gimel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=38 HaMem Gimel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1991455,31.79601192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>975 A (806)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 Zichron Ya&#x27;akov St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 Zichron Ya&amp;#x27;akov St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20174810394518,31.79447697409672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>975 B (807)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Zichron Ya&#x27;akov St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Zichron Ya&amp;#x27;akov St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20202255,31.794225449819965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>975 C (808)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 19 Zichron Ya&#x27;akov St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=19 Zichron Ya&amp;#x27;akov St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20219001743596,31.793954774097028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>975 D (809)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 21 Zichron Ya&#x27;akov St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=21 Zichron Ya&amp;#x27;akov St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.202196975108805,31.793535512093083,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>979 (810)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 Zichron Ya&#x27;akov St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 Zichron Ya&amp;#x27;akov St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.201082732781515,31.795073817564752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>601 (811)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1 Gan Sanhedrin St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=1 Gan Sanhedrin St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22139324,31.8103973,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>602 (812)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6 HaSanhedrin St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=6 HaSanhedrin St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21872527,31.79755634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>603 (813)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 HaRav Bloy St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 HaRav Bloy St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22001809,31.79759097409532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>604 (814)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Shimon Hacham St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Shimon Hacham St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2188737,31.795412149351016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>605 (815)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 2 Bar Ilan St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=2 Bar Ilan St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21941769,31.79570251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>616 (816)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 61 Shmuel Hanavi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=61 Shmuel Hanavi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22309569,31.79249233140142,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>617 (817)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Gmul St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Gmul St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2250634,31.79051837,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>618 (818)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 66 Shmuel HaNavi St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=66 Shmuel HaNavi St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22315682,31.792860731292258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>957 (819)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 19 Avinadav St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=19 Avinadav St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2189116,31.79461696855955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>656 (820)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 19 Keren HaYesod St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=19 Keren HaYesod St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2195315,31.77406146,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>807 (821)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Benjamin Disraeli St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Benjamin Disraeli St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21700218,31.77014346,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>679 (822)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 59 Hebron Rd.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=59 Hebron Rd., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2256433,31.763436661978776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>688 (823)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 18 Efrata St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=18 Efrata St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22182315,31.752546089319623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>689 (824)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 Ben Gavriel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 Ben Gavriel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2200234,31.749094780609962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>690 (825)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1 Leib Yaffe St., jerusalem&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=1 Leib Yaffe St., jerusalem, Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2234383,31.74919744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>691 (826)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 93 Bethlehem Rd.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=93 Bethlehem Rd., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21891075,31.752087774115857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>940 (827)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17 Shalom Yehuda St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=17 Shalom Yehuda St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.22008993,31.751198866808615,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>928 (828)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 8 Pri Hadash St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=8 Pri Hadash St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21757937,31.78741269,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jerusalem Public shelters at schools</name>
+    <Style id="shelterStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Agron School (829)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 29 Zangvil St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=29 Zangvil St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1776219598942,31.76321873501009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alma Arts High School (830)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 33 Yochanan Ben Zakkai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=33 Yochanan Ben Zakkai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20716196102939,31.757972091937397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beit Hazayar School (831)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 November 29 St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 November 29 St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.215559951583955,31.766417036898186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beit Yaakov School - Ramat Shlomo (832)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 62 Hazon Ish St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=62 Hazon Ish St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21889877452208,31.81003976075607,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dugma School (833)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 20 HaRav Yosef Kapach St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=20 HaRav Yosef Kapach St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.209913880028324,31.781061857208574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Efrata School protected space ("mamad") (834)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 31 Yehuda St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=31 Yehuda St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21727487452393,31.757902124506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evelina de Rothschild High School (835)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 38 Menachem Usishikin St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=38 Menachem Usishikin St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21234516605884,31.778995208701513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evelina de Rothschild School (836)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 15 Ben Labrat St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=15 Ben Labrat St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.2097681450683,31.770494182467868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Givat Gonen High School (837)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 12 Ravi Tzadok St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=12 Ravi Tzadok St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1936430610294,31.754732853595478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gonenim School (838)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 21 Horkanya St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=21 Horkanya St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20143931540969,31.758299691542305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guatemala School (839)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 10 HaHartzit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=10 HaHartzit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.16426852637654,31.758140419230703,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hand in Hand School (840)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Arieh Beham St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Arieh Beham St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.199508474524045,31.751395483674717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Har Nof School for Girls (841)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 46 Hai Taieb St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=46 Hai Taieb St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.171293888017445,31.783613893826544,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hillel Nissui School (842)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1 Kedoshei Babel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=1 Kedoshei Babel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.237943923246874,31.749275554510238,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedma School (843)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 Bar Yochai St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 Bar Yochai St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19834810151255,31.753716878640976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luria School (844)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 14 Yisrael Aharoni St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=14 Yisrael Aharoni St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.20509440674426,31.763437859089613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mamad Dror School (845)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 19 Shahar St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=19 Shahar St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19440994808236,31.780792800846783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mamad Harel School (846)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 30 Avraham Idelzon St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=30 Avraham Idelzon St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19058774163736,31.819486223067116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meor HaTorah School (847)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Ben Tzion St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Ben Tzion St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.196747978136436,31.78891220827891,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noam School for Boys (848)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 32 Haim Vital St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=32 Haim Vital St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19150001685247,31.78941098177791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noam School for Girls (849)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3 Bazel St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=3 Bazel St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19272208135689,31.784511897851257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noam School for Girls - Pisgat Ze'ev (850)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 47 Yosef Nedva St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=47 Yosef Nedva St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.25252554568693,31.815499210855556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pelech High School for Girls (851)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 31 Yehuda St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=31 Yehuda St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.21726414568874,31.757938614541686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tal Haim School (852)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 18 HaNurit St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=18 HaNurit St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.17275889572469,31.7526328701386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Talmud Torah Morasha (853)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 52 Shlomo Alkabetz St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=52 Shlomo Alkabetz St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.190328502442235,31.789392343596056,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Pisgat Zeev School (854)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 74 Shmuel Tamir St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=74 Shmuel Tamir St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.237264507590396,31.820540434075568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yashlatz Yeshiva for Youth (855)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Kosovsky St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Kosovsky St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.19477427636922,31.784729689846337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yefe Nof School (856)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 5 HaTomer St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=5 HaTomer St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.18647901543972,31.77954259145598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yisraeli Beit HaKerem School (857)</name>
+      <description>&lt;div style=&#x27;font-family: Arial, sans-serif; line-height: 1.5;&#x27;&gt;
+&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Public shelters at schools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7 Ma&#x27;agal Beit HaMidrash St.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; &lt;a href=&#x27;https://www.google.com/maps/search/?api=1&amp;query=7 Ma&amp;#x27;agal Beit HaMidrash St., Jerusalem, Israel&#x27; style=&#x27;color: #0066cc;&#x27;&gt;Open in Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+      <styleUrl>#shelterStyle</styleUrl>
+      <Point>
+        <coordinates>35.1906084726767,31.78211509689336,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
